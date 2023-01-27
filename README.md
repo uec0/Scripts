@@ -1,1 +1,1 @@
-# cdc-coe-github-template
+Scripts
